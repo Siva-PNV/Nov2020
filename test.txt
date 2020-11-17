@@ -1,1 +1,2 @@
 Test git Lifecycle workflow
+Second line added
